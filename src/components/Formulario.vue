@@ -37,7 +37,7 @@
     }
  });
 </script>
-<style >
+<style>
     .formulario{
         color: var(--texto-primario);
         background-color: var(--bg-primario);
